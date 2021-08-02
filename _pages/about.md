@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-松山洋道
+名古屋大学理学部物理学科
 
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].

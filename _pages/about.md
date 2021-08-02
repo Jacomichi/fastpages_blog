@@ -4,11 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-名古屋大学理学部物理学科
+# Me
+- 2013/04 - 2017/03 : 名古屋大学理学部物理学科
+- 2017/04 - 2019/03 : 名古屋大学大学院物質理学専攻(物理系)博士前期課程
+- 2019/04 - 現在 : 名古屋大学大学院物質理学専攻(物理系)博士後期課程
 
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
